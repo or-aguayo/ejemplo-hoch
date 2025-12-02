@@ -1,0 +1,14 @@
+{
+  "name": "ejemplo-hoch",
+  "version": "1.0.0",
+  "description": "Aplicación web de chatbot para analizar licitaciones de software usando OpenRouter",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node -e 'console.log(\"No hay pruebas automatizadas configuradas\")'"
+  },
+  "keywords": ["chatbot", "openrouter", "licitaciones", "requerimientos"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
